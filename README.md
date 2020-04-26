@@ -1,2 +1,2 @@
-# Convex_Optimizaiton
-Algorithms for convex optimization
+# Algorithms for Convex Optimization
+
